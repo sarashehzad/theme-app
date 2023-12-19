@@ -1,0 +1,21 @@
+
+
+.light-theme {
+    background-color: white;
+    color: #333;
+  }
+  
+  .dark-theme {
+    background-color: #28282B;
+    color: white;
+  }
+  
+  .custom-card {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 400px;
+  }
+ .header{
+    border-color: aliceblue;
+ }
+  
